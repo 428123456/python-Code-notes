@@ -14,4 +14,4 @@ while True:
         endtime = time.time()
         print('总共的时间为：',round(endtime - starttime,2),'secs')
         break
-    
+
