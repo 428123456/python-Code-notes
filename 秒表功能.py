@@ -1,5 +1,6 @@
 import time
-
+#
+￥dgdah$hs
 print('按下回车键开始计时，按下ctrl+c停止计时')
 while True:
 

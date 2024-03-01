@@ -1,0 +1,8 @@
+{
+    "intelliphp.inlineSuggestionsEnabled": false,
+    "vsintellicode.java.completionsEnabled": false,
+    "typescript.tsserver.web.projectWideIntellisense.enabled": true,
+    "go.useLanguageServer": true,
+    "IFlyCode.AutoTriggerOnPause": false,
+    "IFlyCode.AutoTriggerTimeDelay": 5
+}
